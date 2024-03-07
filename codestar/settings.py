@@ -27,7 +27,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = os.environ.get("SECRET_KEY")
 
-DEBUG = False
+DEBUG =False 
 
 ALLOWED_HOSTS = ['8000-jenaleigh01-djangoblog-tj1f6xza55e.ws-eu108.gitpod.io', '.herokuapp.com']
 
