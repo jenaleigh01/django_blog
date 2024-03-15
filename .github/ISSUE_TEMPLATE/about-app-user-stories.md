@@ -1,12 +1,12 @@
 ---
 name: About App User stories
-about: " Read about the site"
+about: Add and update the about text
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-As a Site User, I can click on the About link so that I can read about the site.
+As a Site Admin, I can create or update the about page content so that it is available on the site.
 
-AC1 When the About link is clicked, the about text is visible.
+AC1 The About app is visible in the admin panel
